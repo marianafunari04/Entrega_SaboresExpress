@@ -16,8 +16,9 @@ Autor e dados da atividade:
 
 Nome: Mariana Funari Cavalca Vieira
 
-Turma: GTI.5NA
+Turma: GTI.4NA
 
 Disciplina: Gestão da Tecnologia da Informação
 
 Data: 09/11/2025
+
